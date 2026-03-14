@@ -1,0 +1,7 @@
+[core]
+    remote = evgeniy_storage
+['remote "evgeniy_storage"']
+    url = s3://s3-student-mle-20250717-d331044a6c-freetrack
+    endpointurl = https://storage.yandexcloud.net
+    version_aware = true
+    region = ru-central1
